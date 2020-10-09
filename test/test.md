@@ -33,6 +33,10 @@ int main(){
 
 
 
+更多布局看左上角编辑
+
+
+
 ## 上传文件到github
 
 打开本地文件目录   比如现在就是在G:/gitihub/note文件夹下
@@ -53,3 +57,4 @@ git push
 
 
 
+vvvvv
